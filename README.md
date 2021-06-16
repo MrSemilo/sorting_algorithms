@@ -101,6 +101,6 @@ typedef struct listint_s
 } listint_t;
 ```
 Authors:
-* Camilo Valencia @CamiloV82394568 (https://github.com/semilo-del);
-* Adrian camilo guerra (adriancamiloguerra@gmail.com)
-* *Jaime gracias
+* Camilo Valencia Padilla [Email](camilovalenciapadilla@gmail.com),[Twitter](https://twitter.com/CamiloV82394568), [github](https://github.com/samilo-del);
+* Adrian Camilo Guerra [Email](adriancamiloguerra@gmail.com),[Twitter](https://twitter.com/Adrian45837501), [github](https://github.com/adrian-blip);
+* Jaime Garcia Corcho [Email](jaimegarcia9999c@gmail.com),[Twitter](https://twitter.com/garcia_jaime999), [github](https://github.com/BlackThunder24);
