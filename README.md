@@ -100,3 +100,5 @@ typedef struct listint_s
     struct listint_s *next;
 } listint_t;
 ```
+Authors:
+* Camilo Valencia @CamiloV82394568 (https://github.com/semilo-del);
