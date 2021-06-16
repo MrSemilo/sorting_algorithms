@@ -102,3 +102,5 @@ typedef struct listint_s
 ```
 Authors:
 * Camilo Valencia @CamiloV82394568 (https://github.com/semilo-del);
+* Adrian camilo guerra (adriancamiloguerra@gmail.com)
+* *Jaime gracias
