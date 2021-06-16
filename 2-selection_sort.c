@@ -3,7 +3,6 @@
 /**
  * selection_sort - Prints a list of integers
  * @array: The array
- * @list: The list to be printed
  * @size: size
  */
 
